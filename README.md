@@ -3,28 +3,6 @@
 
 This is simpale Program To Activate Windwos 10 For Free In The future I Will Add Some More Options To This Software Feel Free To Ask Aney Problems
 
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Hirusha-Dulaj/Windows-Activator.git
-```
-
-Go to the project directory
-
-```bash
-  cd Windows-Activater
-```
-
-Start The Peogram:
-
-```bash
-  Just Dubble Click The App Icon 
-```
-
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
